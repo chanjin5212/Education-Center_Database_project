@@ -5,9 +5,14 @@
 ### ⚙️ 개발환경
 <img src="https://img.shields.io/badge/Windows10-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 -	**Platform** : Windows10
--	**Oracle version** : Oracle Database 11g Express Edition Release 11.2.0.2.0
+-	**Oracle version** : Oracle Database 11g Express Edition Release 11.2.0.2.0 <img src = "https://user-images.githubusercontent.com/97499271/169327724-19bfe625-4386-421a-910e-eb4d0898d4be.png" width = "25" height = "25"/>
 -	**Development tool** : SQL Developer
 -	**ERD tool** : eXERD <img src = "https://user-images.githubusercontent.com/97499271/166865359-0b33d34d-b67b-45e5-8eeb-07e608f193b4.png" width="20" height="20"/>
+
+
+
+
+
 -----------------------
 ### 🛎 개요 및 목적
 |**구분**|**상세 내용**|
