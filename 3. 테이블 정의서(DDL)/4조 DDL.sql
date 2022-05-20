@@ -105,6 +105,10 @@ create table tblOpenedCourse(
     constraint tblOpenedCourse_rseq_fk foreign key(rseq) references tblClassroom(seq)
 );
 
+-- 개설 과정 인덱스
+create index idxStartDate on tblOpenedCourse(startdate);
+create index idxEndDate on tblOpenedCourse(enddate);
+
 create sequence seq_openedCourse;
 
 -- 강의 가능 과목
